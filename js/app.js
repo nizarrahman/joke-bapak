@@ -85,6 +85,18 @@ let soal = [
         s: "kasur rusak dibalik jadi?",
         answer: "kasur rusak",
     },
+     {
+        s: "ada lagi yang lagi rame?",
+        answer: "hohoho",
+    },
+     {
+        s: "Ga Tau Apa",
+        answer: "Sugan",
+    },
+     {
+        s: "Mahluk Yang Ga Pernah Salah",
+        answer: "Women",
+    },
 ];
 
 // quis
